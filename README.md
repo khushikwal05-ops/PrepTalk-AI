@@ -155,13 +155,6 @@ streamlit run app.py
 
 Developed collaboratively by a team of two members as part of the internship project at Low Latency Technologies Private Limited.
 
-## 📌 Repository Information
-
-**GitHub Repository:** [preptalkAI-2026](https://github.com/lowlatency2022/preptalkAI-2026)
-
-**Repository Owner:** lowlatency2022
-
-**Visibility:** Private
 
 ## 📄 License
 
