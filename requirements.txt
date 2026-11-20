@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+google-genai
+pydantic
+numpy
+librosa
+sounddevice
+soundfile
+openai
+reportlab
